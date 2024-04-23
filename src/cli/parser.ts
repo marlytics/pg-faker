@@ -4,7 +4,7 @@ import {
   OptionsType,
   TableTypes,
   __TableOperationType,
-} from '../../types/domain.js';
+} from '../types/domain';
 import {Logger} from '../utils/logger.js';
 
 class Parser {
