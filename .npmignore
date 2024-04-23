@@ -8,5 +8,5 @@ coverage/
 fixtures/
 .github/
 .husky/
-src/
-types/
+/src/
+/types/
