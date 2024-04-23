@@ -1,5 +1,5 @@
 import {join} from 'path';
-import {ConfigurationType, WriteableStream} from '../types/domain';
+import {ConfigurationType, WriteableStream} from '../../types/domain.js';
 import parser from './parser.js';
 import {createPgDump} from '../pg/dump.js';
 import {gracefulShutdown} from '../utils/handlers.js';

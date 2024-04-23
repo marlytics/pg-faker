@@ -1,5 +1,5 @@
 /* eslint-disable no-unused-vars */
-import {Query} from '../pg/queries/abstracts/query';
+import {Query} from '../src/pg/queries/abstracts/query';
 
 // eslint-disable-next-line no-unused-vars
 export type TransformerType = (value: any) => any;
