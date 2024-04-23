@@ -1,5 +1,5 @@
 import chalk from 'chalk';
-import {VerbosityLevel} from '../types/domain';
+import {VerbosityLevel} from '../decs/domain';
 
 class Logger {
   verbosityLevel: VerbosityLevel;

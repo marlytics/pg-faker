@@ -1,4 +1,4 @@
-import {AbstractOperationType, ConfigurationType} from '../../src/types/domain';
+import {AbstractOperationType, ConfigurationType} from '../../src/decs/domain';
 import {columnConfiguration} from './columns';
 import {optionConfiguration} from './options';
 import {tableConfiguration} from './tables';

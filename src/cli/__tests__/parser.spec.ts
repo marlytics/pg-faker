@@ -8,7 +8,7 @@ import {completeConfiguration} from '../../../fixtures/configurations/complete';
 import {optionConfiguration, optionParsed} from '../../../fixtures/configurations/options';
 import {tableConfiguration} from '../../../fixtures/configurations/tables';
 import {optionCompleteConfiguration} from '../../../fixtures/configurations/options-complete';
-import {AbstractOperationType, ConfigurationType} from '../../types/domain';
+import {AbstractOperationType, ConfigurationType} from '../../decs/domain';
 import {Parser} from '../parser';
 
 describe('Parser', () => {
