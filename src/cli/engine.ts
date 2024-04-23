@@ -5,7 +5,7 @@ import {
   ExecuterInstructions,
   VerbosityLevel,
   WriteableStream,
-} from '../decs/domain';
+} from '../types/domain';
 import {indexOnQueries} from '../pg/queries/index.js';
 import {DataQuery} from '../pg/queries/abstracts/data-query.js';
 import {InfraQuery} from '../pg/queries/abstracts/infra-query.js';

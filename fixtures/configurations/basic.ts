@@ -1,4 +1,4 @@
-import {AbstractOperationType, ConfigurationType} from '../../src/decs/domain';
+import {AbstractOperationType, ConfigurationType} from '../../src/types/domain';
 
 export function minimalConfiguration(): ConfigurationType {
   {
